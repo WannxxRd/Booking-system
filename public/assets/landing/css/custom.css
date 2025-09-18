@@ -1,0 +1,11 @@
+input[readonly] {
+  background-color: #e9ecef !important; /* abu-abu Bootstrap */
+  color: #6c757d;
+  cursor: default;
+}
+
+input[readonly]:focus {
+  background-color: #e9ecef !important; /* tetap abu-abu */
+  box-shadow: none; /* hilangkan border glow */
+  border-color: #ced4da; /* warna border default */
+}

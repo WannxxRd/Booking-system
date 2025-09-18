@@ -1,0 +1,11 @@
+.swal-modal .swal-text {
+  text-align: center;
+}
+
+.card-icon {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  font-size: 5rem;
+  color: rgba(255, 255, 255, 0.5);
+}
