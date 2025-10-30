@@ -15,7 +15,7 @@
                         <li>Email:
                             <a href="mailto:ridwan.umsorong.com">ridwan.umsorong@gmail.com</a>
                         </li>
-                        <li>Telepon: +62 82238740208</li>
+                        <li>Telepon: +62 822 3874 0208</li>
                     </ul>
                 </div>
             </div>
