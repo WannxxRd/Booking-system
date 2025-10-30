@@ -56,11 +56,11 @@
 <body class="index-page">
 
     <header id="header" class="header d-flex align-items-center fixed-top">
-        <div class="container-fluid container-sm position-relative d-flex align-items-center">
+        <div class="container-fluid container-xl position-relative d-flex align-items-center">
 
             <a href="<?= base_url() ?>" class="logo d-flex align-items-center me-auto">
                 <img src="<?= base_url('assets/img/logo.png') ?>" alt="Logo">
-                <h5 class="sitename">SISPANDALWAS</h5>
+                <h1 class="sitename">SISPANDALWAS</h1>
             </a>
 
             <?= view('menu') ?>
@@ -88,7 +88,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out">
-                        <img src="<?= base_url('assets/img/logo.png') ?>" class="img-fluid animated" width="200px">
+                        <img src="<?= base_url('assets/img/logo.png') ?>" class="img-fluid animated" alt="">
                     </div>
                 </div>
             </div>
@@ -103,6 +103,20 @@
                 <h2>Maps</h2>
                 <p>Kawasan Konservasi Misool Selatan<br></p>
             </div><!-- End Section Title -->
+
+            <!-- <div class="container">
+
+                <div class="row gy-4">
+
+                    <div class="col-lg-12">
+                        <div class="card">
+                            <img src="<?= base_url('assets/img/Peta2.PNG') ?>" class="img-fluid" alt="">
+                        </div>
+                    </div><!-- End Card Item -->
+
+            </div>
+
+            </div> -->
 
             <div class="container mt-5">
 
