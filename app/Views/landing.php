@@ -110,7 +110,7 @@
 
                     <div class="col-lg-12">
                         <div class="card">
-                            <img src="<?= base_url('assets/img/peta2.png') ?>" class="img-fluid" alt="">
+                            <img src="<?= base_url('assets/img/Peta2.png') ?>" class="img-fluid" alt="">
                         </div>
                     </div><!-- End Card Item -->
 
