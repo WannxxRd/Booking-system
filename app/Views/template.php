@@ -29,6 +29,8 @@
     <!-- Main CSS File -->
     <link href="<?= base_url('assets/landing/css/main.css') ?>" rel="stylesheet">
     <link href="<?= base_url('assets/landing/css/custom.css') ?>" rel="stylesheet">
+
+
 </head>
 
 <body class="starter-page-page">

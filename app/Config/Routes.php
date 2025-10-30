@@ -11,6 +11,9 @@ $routes->get('home', 'Home::index');
 $routes->get('daftar', 'Daftar::index');
 $routes->post('daftar', 'Daftar::index');
 
+
+$routes->get('kontak', 'Kontak::index');
+
 $routes->get('login', 'Login::index');
 $routes->post('login/cek', 'Login::cek');
 $routes->get('logout', 'Login::logout');
