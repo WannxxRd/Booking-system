@@ -26,7 +26,7 @@
 <div class="container">
     <div class="row">
         <div class="col-12">
-            <iframe src="https://maps.app.goo.gl/NpyRpYDxLXQCdsMZ6" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/place/BLUD+UPTD+Pengelolaan+KKP+Raja+Ampat/@-0.4327553,130.8136616,943m/data=!3m1!1e3!4m14!1m7!3m6!1s0x2d5f1d22a3347cb7:0x58b653c13549814d!2sBLUD+UPTD+Pengelolaan+KKP+Raja+Ampat!8m2!3d-0.4330105!4d130.8165605!16s%2Fg%2F11dxpfg7ny!3m5!1s0x2d5f1d22a3347cb7:0x58b653c13549814d!8m2!3d-0.4330105!4d130.8165605!16s%2Fg%2F11dxpfg7ny?entry=ttu&g_ep=EgoyMDI1MTAyOC4wIKXMDSoASAFQAw%3D%3D" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
     </div>
 </div>
