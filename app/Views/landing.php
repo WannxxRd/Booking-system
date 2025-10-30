@@ -101,7 +101,7 @@
             <!-- Section Title -->
             <div class="container section-title">
                 <h2>Maps</h2>
-                <p>Area Maps<br></p>
+                <p>Kawasan Konservasi Misool Selatan<br></p>
             </div><!-- End Section Title -->
 
             <div class="container">
