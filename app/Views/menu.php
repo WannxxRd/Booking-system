@@ -14,6 +14,7 @@
         <ul>
             <li><a href="<?= base_url() ?>#hero">Home</a></li>
             <li><a href="<?= base_url('daftar') ?>">Registrasi User</a></li>
+            <li><a href="<?= base_url('kontak') ?>">Kontak Kami</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
     </nav>
