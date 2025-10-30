@@ -36,7 +36,7 @@
 <body class="starter-page-page">
 
     <header id="header" class="header d-flex align-items-center sticky-top">
-        <div class="container-fluid container-xl position-relative d-flex align-items-center">
+        <div class="container-fluid container-sm position-relative d-flex align-items-center">
 
             <a href="<?= base_url() ?>" class="logo d-flex align-items-center me-auto">
                 <img src="<?= base_url('assets/img/logo.png') ?>" alt="Logo">
