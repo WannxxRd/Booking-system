@@ -40,7 +40,7 @@
 
             <a href="<?= base_url() ?>" class="logo d-flex align-items-center me-auto">
                 <img src="<?= base_url('assets/img/logo.png') ?>" alt="Logo">
-                <h4 class="sitename">SISPANDALWAS</h4>
+                <h5 class="sitename">SISPANDALWAS</h5>
             </a>
 
             <?= view('menu') ?>
