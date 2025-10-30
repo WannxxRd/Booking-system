@@ -110,7 +110,7 @@
 
                     <div class="col-lg-12">
                         <div class="card">
-                            <iframe src="https://conservation.maps.arcgis.com/apps/instant/sidebar/index.html?appid=e6ca45dd24424f08978bc8d547cc4538" width="400" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+                            <iframe src="https://conservation.maps.arcgis.com/apps/instant/sidebar/index.html?appid=e6ca45dd24424f08978bc8d547cc4538" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
                         </div>
                     </div><!-- End Card Item -->
 
