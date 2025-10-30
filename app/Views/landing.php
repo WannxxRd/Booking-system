@@ -110,13 +110,12 @@
 
                     <div class="col-lg-12">
                         <div class="card-body">
-                            <iframe src="https://conservation.maps.arcgis.com/apps/instant/sidebar/index.html?appid=e6ca45dd24424f08978bc8d547cc4538" width="100%" height="750" frameborder="0" style="border:0" allowfullscreen></iframe>
-                        </div>
-                    </div><!-- End Card Item -->
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d614779.6864408343!2d130.17297701134487!3d-1.8148002134591104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2d42acbf57127613%3A0xecb252193e0bc469!2sPulau%20Misool!5e1!3m2!1sid!2sid!4v1761818039335!5m2!1sid!2sid" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </div><!-- End Card Item -->
+
+                    </div>
 
                 </div>
-
-            </div>
 
         </section><!-- /Values Section -->
 
