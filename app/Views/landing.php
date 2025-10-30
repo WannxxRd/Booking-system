@@ -88,7 +88,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out">
-                        <img src="<?= base_url('assets/img/logo.png') ?>" class="img-fluid animated" alt="">
+                        <img src="<?= base_url('assets/img/logo.png') ?>" class="img-fluid animated" width="200px">
                     </div>
                 </div>
             </div>
